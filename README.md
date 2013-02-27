@@ -17,3 +17,4 @@ Content:
 * Presentation + text to read/speak about, focus more on presenting than on presentation/slides, be great speaker and storyteller
 * Include exercises
 * Gather feedback
+* use https://speakerdeck.com/ ?
